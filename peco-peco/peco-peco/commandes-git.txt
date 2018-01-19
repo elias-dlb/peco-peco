@@ -1,0 +1,9 @@
+LES COMMANDES RECURENTES :
+
+1) cloner le projet 
+
+C:\projet>git clone https://peco-peco@bitbucket.org/onafaim/peco-peco.git
+
+
+Avant chaque commit mettre à jour ta version locale du projet
+
